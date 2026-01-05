@@ -40,4 +40,4 @@ Berdasarkan grafik yang dihasilkan, berikut adalah kesimpulan dari data yang dio
 3.  Grafik akan otomatis muncul di output cell.
 
 ---
-*Project Tugas Kelompok - Analisis Data & Visualisasi*
+*Project Bagian D [NIM 152024133 Moch Riezky Dwi Kuswanto] - Analisis Data & Visualisasi*
